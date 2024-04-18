@@ -272,3 +272,4 @@ Chi.df %>%
 # Also, none of the table cell's values is less than 5, a Fisher's exact test is not required.
 
 ################################################################################
+
